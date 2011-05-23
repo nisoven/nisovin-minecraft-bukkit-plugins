@@ -10,7 +10,7 @@ These spells are command-based spells that affect the plugin itself. You'll prob
  * [HelpSpell help] - Shows information about the specified spell.
  * [TeachSpell teach] - Teaches another player a spell.
  * [SpellbookSpell spellbook] - Turns a bookcase into a spellbook that can teach players a specified spell when clicked.
- * [ForgetSpell forget] [NYI] - Causes a player to forget a spell.
+ * [ForgetSpell forget] (NYI) - Causes a player to forget a spell.
 
 = Command Spells =
 
@@ -21,14 +21,37 @@ These are spells that must be typed using the /cast command. The meta spells abo
 
 = Instant Spells =
 
-These are spells that are cast instantly. They are often targeted, and generally do not have any lasting effects after being cast. These can be cast either by using the /cast command or by swinging a configurable casting wand.
+These are spells that are cast instantly. They are often targeted, and generally do not have any lasting effects after being cast. These can be cast either by using the `/cast` command or by swinging a configurable casting wand.
 
  * [BlinkSpell blink] - Teleports you to your target location.
  * [CombustSpell combust] - Sets the target enemy on fire.
+ * [ConfusionSpell confusion] (NYI) - Causes nearby monsters to attack each other.
  * [Entomb Spell entomb] - Traps the target enemy in glass.
  * [ExplodeSpell explode] - Causes an explosion at your target location.
+ * [FirenovaSpell firenova] (NYI) - Sets all nearby enemies on fire.
  * [ForcepushSpell forcepush] - Pushes all enemies away from you.
  * [HealSpell heal] - Heal a target player.
  * [LightningSpell lightning] - Calls down lightning at your target location.
  * [PrayerSpell prayer] - Heals yourself.
+ * [PurgeSpell purge] (NYI) - Kills all nearby mobs.
+ * [TelekinesisSpell telekinesis] - Activate buttons and switches from far away.
+ * [VolleySpell volley] - Fires a volley of arrows at the targeted area.
+ * [WallSpell wall] - Creates a wall to block your enemies.
  * [ZapSpell zap] - Destroys the target block.
+
+= Buff Spells =
+
+These are spells that you cast on yourself to give yourself enhancements. They generally have a duration or number of uses. These can be cast by either using the `/cast` command or by swinging a configurable casting wand.
+
+ * [DeathwalkSpell deathwalk] (NYI)- Death surrounds you.
+ * [FireresistSpell fireresist] (NYI) - Resist fire damage.
+ * [FrostwalkSpell frostwalk] - Freeze water as you walk across it.
+ * [GillsSpell gills] - Lets you breath underwater.
+ * [LifewalkSpell lifewalk] (NYI) - Flowers bloom in your footsteps.
+ * [LightwalkSpell lightwalk] (NYI) - Light your path as you walk.
+ * [SafefallSpell safefall] - Allows you to fall without taking damage.
+ * [StealthSpell stealth] (NYI) - Makes you invisible to monsters.
+ * [StonevisionSpell stonevision] (NYI) - See through stone.
+ * [SummonSpell summon] (NYI) - Summons a monster to fight for you.
+ * [VanishSpell vanish] (NYI) - Become invisble.
+ * [WindwalkSpell windwalk] - Walk on a platform of air (well, glass).
