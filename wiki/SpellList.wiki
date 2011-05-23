@@ -1,6 +1,6 @@
-#summary List of spells
+#summary A list of magic spells
 
-This is a list of all spells in the plugin. Click on a spell to learn more about the spell and its configuration options.
+This is a list of all spells in the plugin. Click on a spell to learn more about the spell and its configuration options. Spells marked (NYI) are not yet implemented, but will be released in a future version.
 
 = Meta Spells =
 
