@@ -1,8 +1,10 @@
 #summary A list of magic spells
 
+= Spell List =
+
 This is a list of all spells in the plugin. Click on a spell to learn more about the spell and its configuration options. Spells marked (NYI) are not yet implemented, but will be released in a future version.
 
-= Meta Spells =
+== Meta Spells ==
 
 These spells are command-based spells that affect the plugin itself. You'll probably want to always have these available, otherwise players won't be able to use the plugin properly.
 
@@ -12,14 +14,14 @@ These spells are command-based spells that affect the plugin itself. You'll prob
  * [SpellbookSpell spellbook] - Turns a bookcase into a spellbook that can teach players a specified spell when clicked.
  * [ForgetSpell forget] (NYI) - Causes a player to forget a spell.
 
-= Command Spells =
+== Command Spells ==
 
 These are spells that must be typed using the /cast command. The meta spells above are also considered command spells.
 
  * [MarkSpell mark] - Marks your current location for later recall.
  * [RecallSpell recall] - Teleports you to your marked location.
 
-= Instant Spells =
+== Instant Spells ==
 
 These are spells that are cast instantly. They are often targeted, and generally do not have any lasting effects after being cast. These can be cast either by using the `/cast` command or by swinging a configurable casting wand.
 
@@ -39,7 +41,7 @@ These are spells that are cast instantly. They are often targeted, and generally
  * [WallSpell wall] - Creates a wall to block your enemies.
  * [ZapSpell zap] - Destroys the target block.
 
-= Buff Spells =
+== Buff Spells ==
 
 These are spells that you cast on yourself to give yourself enhancements. They generally have a duration or number of uses. These can be cast by either using the `/cast` command or by swinging a configurable casting wand.
 
