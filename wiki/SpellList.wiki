@@ -16,7 +16,7 @@ These spells are command-based spells that affect the plugin itself. You'll prob
 
 These are spells that must be typed using the /cast command. The meta spells above are also considered command spells.
 
- * [MarkSpell spell] - Marks your current location for later recall.
+ * [MarkSpell mark] - Marks your current location for later recall.
  * [RecallSpell recall] - Teleports you to your marked location.
 
 = Instant Spells =
