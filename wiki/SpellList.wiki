@@ -28,7 +28,7 @@ These are spells that are cast instantly. They are often targeted, and generally
  * [BlinkSpell blink] - Teleports you to your target location.
  * [CombustSpell combust] - Sets the target enemy on fire.
  * [ConfusionSpell confusion] (NYI) - Causes nearby monsters to attack each other.
- * [Entomb Spell entomb] - Traps the target enemy in glass.
+ * [EntombSpell entomb] - Traps the target enemy in glass.
  * [ExplodeSpell explode] - Causes an explosion at your target location.
  * [FirenovaSpell firenova] (NYI) - Sets all nearby enemies on fire.
  * [ForcepushSpell forcepush] - Pushes all enemies away from you.
