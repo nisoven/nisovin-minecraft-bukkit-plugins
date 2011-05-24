@@ -7,6 +7,8 @@ This spell causes an explosion at your targeted location. Please note that this 
 
 == Configuration ==
 
+[SpellConfiguration General Spell Configuration]
+
 || *Option* || *Description* || *Default* ||
 || explosion-size || The size of the explosion. Size 4 is a regular TNT explosion. || 4 ||
 || backfire-chance || The chance the spell will backfire and explode where you are standing. Chance is out of 10000. || 0 ||
