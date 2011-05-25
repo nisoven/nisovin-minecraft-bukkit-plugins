@@ -1,0 +1,11 @@
+#summary The lightning spell.
+
+= Lightning =
+
+This spell calls down lightning at the targeted location. Can only be used outside.
+
+
+== Configuration ==
+
+|| *Option* || *Description* || *Default* ||
+|| str-cast-fail || Message that appears when the spell fails. || (empty) ||
