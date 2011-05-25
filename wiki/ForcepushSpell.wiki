@@ -1,0 +1,13 @@
+#summary The forcepush spell.
+
+= Forcepush =
+
+This spell pushes back all enemies near you. They will be pushed directly away from your current position. Standing below an enemy can send them flying!
+
+
+== Configuration ==
+
+|| *Option* || *Description* || *Default* ||
+|| target-players || Whether this spell can target players. || false ||
+|| force || How forceful the pushback effect is (really the initial velocity of the entities). || 30 ||
+|| additional-vertical-force || An additional amount of force in the vertical direction. Fun to send enemies flying! || 15 ||
