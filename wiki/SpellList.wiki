@@ -12,7 +12,8 @@ These spells are command-based spells that affect the plugin itself. You'll prob
  * [HelpSpell help] - Shows information about the specified spell.
  * [TeachSpell teach] - Teaches another player a spell.
  * [SpellbookSpell spellbook] - Turns a bookcase into a spellbook that can teach players a specified spell when clicked.
- * [ForgetSpell forget] (NYI) - Causes a player to forget a spell.
+ * [ForgetSpell forget] - Causes a player to forget a spell.
+ * [BindSpell bind] - Binds a spell to a custom wand item.
 
 == Command Spells ==
 
@@ -30,12 +31,13 @@ These are spells that are cast instantly. They are often targeted, and generally
  * [ConfusionSpell confusion] (NYI) - Causes nearby monsters to attack each other.
  * [EntombSpell entomb] - Traps the target enemy in glass.
  * [ExplodeSpell explode] - Causes an explosion at your target location.
+ * [FireballSpell fireball] - Throws a fireball.
  * [FirenovaSpell firenova] (NYI) - Sets all nearby enemies on fire.
  * [ForcepushSpell forcepush] - Pushes all enemies away from you.
  * [HealSpell heal] - Heal a target player.
  * [LightningSpell lightning] - Calls down lightning at your target location.
  * [PrayerSpell prayer] - Heals yourself.
- * [PurgeSpell purge] (NYI) - Kills all nearby mobs.
+ * [PurgeSpell purge] - Kills all nearby monsters and animals.
  * [TelekinesisSpell telekinesis] - Activate buttons and switches from far away.
  * [VolleySpell volley] - Fires a volley of arrows at the targeted area.
  * [WallSpell wall] - Creates a wall to block your enemies.
@@ -47,9 +49,11 @@ These are spells that you cast on yourself to give yourself enhancements. They g
 
  * [DeathwalkSpell deathwalk] (NYI)- Death surrounds you.
  * [FireresistSpell fireresist] (NYI) - Resist fire damage.
+ * [FlamewalkSpell flamewalk] - Burn enemies around you as you walk.
  * [FrostwalkSpell frostwalk] - Freeze water as you walk across it.
  * [GillsSpell gills] - Lets you breath underwater.
- * [LifewalkSpell lifewalk] (NYI) - Flowers bloom in your footsteps.
+ * [InvulnerabilitySpell invulnerability] - Makes you invulnerable to damage.
+ * [LifewalkSpell lifewalk] - Flowers bloom in your footsteps.
  * [LightwalkSpell lightwalk] (NYI) - Light your path as you walk.
  * [SafefallSpell safefall] - Allows you to fall without taking damage.
  * [StealthSpell stealth] (NYI) - Makes you invisible to monsters.
