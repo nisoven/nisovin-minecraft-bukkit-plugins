@@ -12,5 +12,5 @@ This spell causes an explosion at your targeted location. Please note that this 
 || *Option* || *Description* || *Default* ||
 || explosion-size || The size of the explosion. Size 4 is a regular TNT explosion. || 4 ||
 || backfire-chance || The chance the spell will backfire and explode where you are standing. Chance is out of 10000. || 0 ||
-|| require-tnt-perm || This functionality is not available yet. || true ||
+|| check-plugins || Whether to check plugins for allowed TNT explosions. || true ||
 || str-no-target || Message that appears if there is no valid target (looking at sky, too far away, etc) || Cannot explode there. ||
