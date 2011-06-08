@@ -1,0 +1,11 @@
+#summary The fireball spell.
+
+= Fireball =
+
+This spell throws a fireball at your targeted location. It works the same as the ghast fireball, and should obey the same plugin restrictions for explosions and entity damage.
+
+
+== Configuration ==
+
+|| *Option* || *Description* || *Default* ||
+|| str-no-target || Message that appears when the target is invalid. || You cannot throw a fireball there. ||
