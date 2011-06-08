@@ -1,0 +1,6 @@
+#summary The side bar
+
+= Links =
+
+ * [SpellConfiguration]
+ * [SpellList]
