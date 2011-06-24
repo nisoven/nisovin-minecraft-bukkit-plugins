@@ -2,5 +2,7 @@
 
 = Links =
 
- * [SpellConfiguration]
- * [SpellList]
+ * [Installation]
+ * [GeneralConfiguration General Configuration]
+ * [SpellConfiguration Spell Configuration]
+ * [SpellList Spell List]
