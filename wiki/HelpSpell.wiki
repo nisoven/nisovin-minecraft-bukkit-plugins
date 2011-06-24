@@ -2,7 +2,7 @@
 
 = Help =
 
-This spell shows information about the specified spell, including a description and the spell cost. Usage: `/cast help <spell>`.
+Meta/command spell. This spell shows information about the specified spell, including a description and the spell cost. Usage: `/cast help <spell>`.
 
 
 == Configuration ==

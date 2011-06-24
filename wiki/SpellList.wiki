@@ -27,13 +27,15 @@ These are spells that must be typed using the /cast command. The meta spells abo
 These are spells that are cast instantly. They are often targeted, and generally do not have any lasting effects after being cast. These can be cast either by using the `/cast` command or by swinging a configurable casting wand.
 
  * [BlinkSpell blink] - Teleports you to your target location.
+ * [BuildSpell build] - Build blocks from a distance.
  * [CombustSpell combust] - Sets the target enemy on fire.
  * [ConfusionSpell confusion] (NYI) - Causes nearby monsters to attack each other.
  * [EntombSpell entomb] - Traps the target enemy in glass.
  * [ExplodeSpell explode] - Causes an explosion at your target location.
  * [FireballSpell fireball] - Throws a fireball.
- * [FirenovaSpell firenova] (NYI) - Sets all nearby enemies on fire.
+ * [FirenovaSpell firenova] - Sets all nearby enemies on fire.
  * [ForcepushSpell forcepush] - Pushes all enemies away from you.
+ * [GateSpell gate] - Teleports you to a configured location (spawn by default).
  * [HealSpell heal] - Heal a target player.
  * [LightningSpell lightning] - Calls down lightning at your target location.
  * [PrayerSpell prayer] - Heals yourself.
@@ -54,10 +56,10 @@ These are spells that you cast on yourself to give yourself enhancements. They g
  * [GillsSpell gills] - Lets you breath underwater.
  * [InvulnerabilitySpell invulnerability] - Makes you invulnerable to damage.
  * [LifewalkSpell lifewalk] - Flowers bloom in your footsteps.
- * [LightwalkSpell lightwalk] (NYI) - Light your path as you walk.
+ * [LightwalkSpell lightwalk] - Light your path as you walk.
+ * [MinionSpell minion] - Summons a monster to fight for you.
  * [SafefallSpell safefall] - Allows you to fall without taking damage.
- * [StealthSpell stealth] (NYI) - Makes you invisible to monsters.
- * [StonevisionSpell stonevision] (NYI) - See through stone.
- * [SummonSpell summon] (NYI) - Summons a monster to fight for you.
+ * [StealthSpell stealth] - Makes you invisible to monsters.
+ * [StonevisionSpell stonevision] - See through stone.
  * [VanishSpell vanish] (NYI) - Become invisble.
  * [WindwalkSpell windwalk] - Walk on a platform of air (well, glass).
