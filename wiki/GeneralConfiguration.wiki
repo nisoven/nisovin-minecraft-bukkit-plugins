@@ -8,7 +8,7 @@ There are several configuration options under the "general" header in the config
 || str-cast-usage || The message that appears when someone uses the /cast command without any arguments. || Usage: /cast <spell>. Use /cast list to see a list of spells. ||
 || str-unknown-spell || Message that appears when a player is trying to cast a spell they don't know or doesn't exit. || You do not know a spell with that name. ||
 || str-spell-change || String that appears when a player right clicks to cycle through spells assigned to the wand they are holding. || You are now using the %s spell. ||
-|| str-on-cooldown || String that appears when a player tries to cast a spell on cooldown. || That spell is on cooldown (%c seconds remaining).
+|| str-on-cooldown || String that appears when a player tries to cast a spell on cooldown. || That spell is on cooldown (%c seconds remaining). ||
 || str-missing-reagents || Message when a player is trying to cast a spell without reagents. || You do not have the reagents for that spell. ||
 || str-cant-cast || Message when Permissions has prevented a player from casting a spell. Caused by a missing magicspells.cast.spellname permission node. || You can't cast that spell right now. ||
 || str-console-name || The name used when casting teach or forget from the console. || Admin ||
@@ -16,7 +16,8 @@ There are several configuration options under the "general" header in the config
 || broadcast-range || The default distance that spell strings are broadcast from the casting player to other players nearby. || 20 ||
 || enable-permissions || Whether to use the Permissions plugin. If this is true, all Permissions options apply. || false ||
 || cast-for-free || A list of players who can cast spells without reagents. || (some random fake names) ||
-|| freecast-no-cooldown || Whether the list of players in cast-for-free list can also cast without cooldown. || true || ignore-default-bindings || Whether to ignore the cast-item settings for all spells. Useful if you just want players to use the bind spell to set up cast items. || false ||
+|| freecast-no-cooldown || Whether the list of players in cast-for-free list can also cast without cooldown. || true ||
+|| ignore-default-bindings || Whether to ignore the cast-item settings for all spells. Useful if you just want players to use the bind spell to set up cast items. || false ||
 || los-transparent-blocks || The list of blocks to use as transparent when checking for line-of-sight. || (some transparent block ids) ||
 
 == Mana System ==
